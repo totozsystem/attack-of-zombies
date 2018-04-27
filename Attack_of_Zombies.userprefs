@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\human.cs">
+    <Files>
+      <File FileName="Assets\Script\player.cs" Line="7" Column="2" />
+      <File FileName="Assets\Script\bullet.cs" Line="6" Column="2" />
+      <File FileName="Assets\Script\zombie.cs" Line="6" Column="2" />
+      <File FileName="Assets\Script\human.cs" Line="28" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
